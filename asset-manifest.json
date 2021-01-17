@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.577a85a2.chunk.css",
+    "main.js": "/static/js/main.8f0aae3a.chunk.js",
+    "main.js.map": "/static/js/main.8f0aae3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb8ccc80.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb8ccc80.js.map",
+    "static/css/2.50901936.chunk.css": "/static/css/2.50901936.chunk.css",
+    "static/js/2.e62a4acb.chunk.js": "/static/js/2.e62a4acb.chunk.js",
+    "static/js/2.e62a4acb.chunk.js.map": "/static/js/2.e62a4acb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.50901936.chunk.css.map": "/static/css/2.50901936.chunk.css.map",
+    "static/css/main.577a85a2.chunk.css.map": "/static/css/main.577a85a2.chunk.css.map",
+    "static/js/2.e62a4acb.chunk.js.LICENSE.txt": "/static/js/2.e62a4acb.chunk.js.LICENSE.txt",
+    "static/media/Maze.539a1475.png": "/static/media/Maze.539a1475.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/pic.5bae2f5d.png": "/static/media/pic.5bae2f5d.png",
+    "static/media/shopping_site.521dccdb.png": "/static/media/shopping_site.521dccdb.png",
+    "static/media/shortest_path.54ca0fa9.png": "/static/media/shortest_path.54ca0fa9.png",
+    "static/media/wiki.f968fd79.png": "/static/media/wiki.f968fd79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8ccc80.js",
+    "static/css/2.50901936.chunk.css",
+    "static/js/2.e62a4acb.chunk.js",
+    "static/css/main.577a85a2.chunk.css",
+    "static/js/main.8f0aae3a.chunk.js"
+  ]
+}
